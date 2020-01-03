@@ -1,7 +1,7 @@
 <center> <h2>Плиточный картоид России<br> Tile Grid Map of Russia </h2><br> 
 <hr> 
   
-Плиточный картоид России, Исходный пост ВКонтакте. &nbsp; <ins> <a href = "https://vk.com/politicalgeography?w=wall-145162562_690">Открыть</a></ins><br>
+Плиточный картоид России. Сообщение во ВКонтакте. &nbsp; <ins> <a href = "https://vk.com/politicalgeography?w=wall-145162562_690">Открыть</a></ins><br>
 
 Плиточный картоид России, автоматизация в MS Excel. &nbsp; <ins> <a href = "Tile%20Grid%20Maps%20of%20Russia%20-%20Excel%20-%201.2.zip">Скачать</a></ins><br>
 
