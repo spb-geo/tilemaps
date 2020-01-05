@@ -5,7 +5,7 @@
 
 Плиточный картоид России, автоматизация в MS Excel: &nbsp; <ins> <a href = "Tile%20Grid%20Maps%20of%20Russia%20-%20Excel%20-%201.2.zip">Скачать</a></ins><br>
 
-Плиточный Атлас земель по регионам России - 2017: &nbsp; <ins> <a href = "Tile%20Atlas%20of%20lands%20by%20regions%20of%20Russia%20-%202017.zip">Скачать</a></ins><br> 
+Плиточный Атлас распределения земельного фонда России - 2017: &nbsp; <ins> <a href = "Tile_Atlas_of_lands_of_Russia_2017.zip">Скачать</a></ins><br> 
 
 <img src = "screen.jpg" alt = "screen">
 <img src = "screen2.jpg" alt = "screen"><br>
