@@ -9,6 +9,8 @@
 
 Плиточные картоиды: pro et contra // Цифровая география (2020): &nbsp; <ins> <a href = "2020_Plitochnye_karty.pdf">Скачать</a></ins><br> 
 
+Плиточные картоиды и их применение в России // Псковский регионологический журнал. 2020. № 1: &nbsp; <ins> <a href = "Elatskov_PRJ-2020.pdf">Скачать</a></ins><br>  
+
 <img src = "screen.jpg" alt = "screen">
 <img src = "screen2.jpg" alt = "screen"><br>
 
