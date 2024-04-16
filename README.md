@@ -15,5 +15,5 @@
 <img src = "screen2.jpg" alt = "screen"><br>
 
 Tile Grid Map of Russia, automated in Excel program. &nbsp;<ins> <a href = "Tile%20Grid%20Maps%20of%20Russia%20-%20Excel%20-%201.2.zip">Download</a></ins><br>
-
+<img src = "screen_3.jpg" alt = "screen"><br>
 Tile Grid Map of Argentina, automated in Excel program. &nbsp;<ins> <a href = " ">Download</a></ins><br>
