@@ -1,4 +1,4 @@
-<center> <h2>Плиточный картоид России</h2> <h3>Tile Grid Map of Russia </h3><br> 
+<center> <h2>Плиточные картоиды</h2> <h3>Tile Grid Maps </h3><br> 
 
   
 Плиточный картоид России. Сообщение во ВКонтакте: &nbsp; <ins> <a href = "https://vk.com/politicalgeography?w=wall-145162562_690">Открыть</a></ins><br>
